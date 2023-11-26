@@ -23,8 +23,10 @@ My research interests include
 * Statistical Learning Theory
 * Subsampling Methods
 * Computer Experiments
+
 Additionally, I am trying to explore the potential applications of subsampling methods and computer experiments in interdisciplinary areas.
-**Fee1 free to contact me if your research 1ies within these or related areas!**
+
+**Feel free to contact me if your research lies within these or related areas!**
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
