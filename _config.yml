@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiangrui Kang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Welcome to my Homepage"
+  bio              : "Welcome to my homepage!"
   location         : "Zhuhai, China"
   employer         :
   pubmed           : 
