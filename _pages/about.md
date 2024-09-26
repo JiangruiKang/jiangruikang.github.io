@@ -17,20 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Jiangrui Kang (康江睿 in Chinese), and I am currently a PhD student in Applied Mathematics, supervised by [Fred Hickernell](https://www.iit.edu/directory/people/fred-hickernell), at Illinois Institute of Technology. I received my MPhil in Probability and Mathematical Statistics in BNU-HKBU United International College (Supervisor [Dr. Jiajuan Liang](https://staff.uic.edu.cn/jiajuanliang/en)) in 2024. I received my BSc in Statistics from Central China Normal University in 2022.
+My name is Jiangrui Kang (康江睿 in Chinese), and I am currently a PhD student in Applied Mathematics at Illinois Institute of Technology.
 
 My research interests include
 * Statistical Learning Theory
-* Subsampling Methods
-* Computer Experiments
-
-Additionally, I am trying to explore the potential applications of subsampling methods and computer experiments in interdisciplinary areas.
+* Sampling Methods
 
 **Feel free to contact me if your research lies within these or related areas!**
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 One paper on Semi-Supervised Learning has been accepted by **NIPS 2024**!
+- *2024.05*: &nbsp;🎉🎉 One paper on Representative Points has been accepted by **Mathematics**. This is my first publication!
 
 # 📝 Publications 
 
@@ -53,8 +50,9 @@ Additionally, I am trying to explore the potential applications of subsampling m
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08 - now*, Illinois Institute of Technology, Doctor of Philosophy Student in Applied Mathematics, Supervisor: [Fred Hickernell](https://www.iit.edu/directory/people/fred-hickernell).
+- *2022.09 - 2024.06*, Beijing Normal University-Hong Kong Baptist University United International College, Master of Philosophy in Probability and Mathematical Statistics, Supervisor: [Jiajuan Liang](https://staff.uic.edu.cn/jiajuanliang/en).
+- *2018.09 - 2022.06*, Central China Normal University, Bachelor of Science in Statistics.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
