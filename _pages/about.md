@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Jiangrui Kang (康江睿 in Chinese), and I am currently a MPhil candidate (supervised by [Dr. Jiajuan Liang](https://staff.uic.edu.cn/jiajuanliang/en)) in Probability and Mathematical Statistics in BNU-HKBU United International College. I received my BSc in Statistics from Central China Normal University in 2022.
+My name is Jiangrui Kang (康江睿 in Chinese), and I am currently a PhD student in Applied Mathematics, supervised by [Fred Hickernell](https://www.iit.edu/directory/people/fred-hickernell), at Illinois Institute of Technology. I received my MPhil in Probability and Mathematical Statistics in BNU-HKBU United International College (Supervisor [Dr. Jiajuan Liang](https://staff.uic.edu.cn/jiajuanliang/en)) in 2024. I received my BSc in Statistics from Central China Normal University in 2022.
 
 My research interests include
 * Statistical Learning Theory
