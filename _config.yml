@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Homepage of Jiangrui Kang (康江睿)"
-description              : "I am a MPhil candidate in Probability and Mathematical Statistics at BNU-HKBU United International College."
+description              : "PhD Student at Illinois Institute of Technology"
 repository               : "JiangruiKang/jiangruikang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,11 +24,11 @@ author:
   name             : "Jiangrui Kang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Welcome to my homepage!"
-  location         : "Zhuhai, China"
+  location         : "Chicago, IL"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "kangjiangrui@uic.edu.cn"
+  email            : "kangjiangrui@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/%E6%B1%9F%E7%9D%BF-%E5%BA%B7-7b4a44242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+  linkedin         : "https://www.linkedin.com/in/jiangrui-kang-7b4a44242/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
