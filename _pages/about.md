@@ -25,38 +25,44 @@ My research interests include
 
 **Feel free to contact me if your research lies within these or related areas!**
 
-# 🔥 News
-- *2024.09*: &nbsp;🎉🎉 One paper on Semi-Supervised Learning has been accepted by **NIPS 2024**!
-- *2024.05*: &nbsp;🎉🎉 One paper on Representative Points has been accepted by **Mathematics**. This is my first publication!
+<span class='anchor' id='news'></span>
 
-# 📝 Publications 
+# News
+- *2024.09*: One paper on semi-supervised learning has been accepted by **NeurIPS 2024**.
+- *2024.05*: One paper on representative points has been accepted by **Mathematics**. This is my first publication.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<span class='anchor' id='publications'></span>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# Publications
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **Enhancing Semi-Supervised Learning via Representative and Diverse Sample Selection**  
+  Qian Shao, **Jiangrui Kang**, Qiyuan Chen, Zepeng Li, Hongxia Xu, Yiwen Cao, Jiajuan Liang, Jian Wu.  
+  *Advances in Neural Information Processing Systems 37 (NeurIPS 2024).*  
+  [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c959bb2cb164d37569a17fa67494d69a-Abstract-Conference.html) \| [OpenReview](https://openreview.net/forum?id=xRdpCOdghl) \| [Code](https://github.com/YanhuiAILab/RDSS)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- **Testing Multivariate Normality Based on Beta-Representative Points**  
+  Yiwen Cao, Jiajuan Liang, Longhao Xu, **Jiangrui Kang**.  
+  *Mathematics* 12(11), 1711, 2024.  
+  [Paper](https://www.mdpi.com/2227-7390/12/11/1711) \| [DOI](https://doi.org/10.3390/math12111711)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<span class='anchor' id='honors-and-awards'></span>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Honors and Awards
+- To be updated.
 
-# 📖 Educations
-- *2024.08 - now*, Illinois Institute of Technology, Doctor of Philosophy Student in Applied Mathematics, Supervisor: [Fred Hickernell](https://www.iit.edu/directory/people/fred-hickernell).
+<span class='anchor' id='educations'></span>
+
+# Educations
+- *2024.08 - now*, Illinois Institute of Technology, Ph.D. student in Applied Mathematics, Supervisor: [Fred Hickernell](https://www.iit.edu/directory/people/fred-hickernell).
 - *2022.09 - 2024.06*, Beijing Normal University-Hong Kong Baptist University United International College, Master of Philosophy in Probability and Mathematical Statistics, Supervisor: [Jiajuan Liang](https://staff.uic.edu.cn/jiajuanliang/en).
 - *2018.09 - 2022.06*, Central China Normal University, Bachelor of Science in Statistics.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<span class='anchor' id='invited-talks'></span>
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Invited Talks
+- *2024.10*, Representative and Diverse Subdata Selection for Semi-supervised Learning and Beyond, Computational Mathematics and Statistics Seminar, Illinois Institute of Technology. [Event](https://www.iit.edu/events/computational-math-and-statistics-seminar-jiangrui-kang-representative-and-diverse-subdata-selection)
+
+<span class='anchor' id='internships'></span>
+
+# Internships
+- To be updated.

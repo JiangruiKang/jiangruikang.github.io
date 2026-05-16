@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Homepage of Jiangrui Kang (康江睿)"
-description              : "PhD Student at Illinois Institute of Technology"
+description              : "Ph.D. student in Applied Mathematics at Illinois Institute of Technology"
 repository               : "JiangruiKang/jiangruikang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Chicago, IL"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :
   email            : "kangjiangrui@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "JiangruiKang"
   google_plus      :
   keybase          :
   instagram        :
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
